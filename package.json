@@ -1,0 +1,32 @@
+{
+  "name": "a02-functions-maxxuunc33",
+  "version": "1.0.0",
+  "description": "comp426-a02-functions-MaxXu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a02-functions-maxxuUNC33.git"
+  },
+  "keywords": [
+    "galosh",
+    "app"
+  ],
+  "author": "Max Xu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a02-functions-maxxuUNC33/issues"
+  },
+  "bin": {
+    "galosh.js": "./cli.js"
+  },
+  "type": "module",
+  "homepage": "https://github.com/comp426-2023-spring/a02-functions-maxxuUNC33#readme",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^3.3.1"
+  }
+}
